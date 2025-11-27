@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,groqstatus.com
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-KEYWORD,gemini
+DOMAIN-SUFFIX,gemini.google.com
+
